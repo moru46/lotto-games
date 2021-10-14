@@ -1,0 +1,7 @@
+username: mario
+password: mario
+
+ELENCO DI TUTTE LE GIOCATE:
+
+ Bari Cagliari Firenze Genova Milano Napoli Palermo Roma Torino Venezia Nazionale 5 6 8 90 x 3.000000 Estratto x 56.000000 Ambo 
+ Bari Cagliari Firenze Genova Milano Napoli Palermo Roma Torino Venezia Nazionale 1 2 3 4 5 6 7 8 9 90 x 9.000000 Estratto x 9.000000 Ambo x 9.000000 Terno x 9.000000 Quaterna x 9.000000 Cinquina 

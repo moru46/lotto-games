@@ -1,0 +1,6 @@
+username: marco
+password: davi
+
+ELENCO DI TUTTE LE GIOCATE:
+
+ Bari Cagliari Firenze Genova Milano Napoli Palermo Roma Torino Venezia Nazionale 1 2 3 4 5 6 7 8 9 10 x 10.000000 Estratto x 10.000000 Ambo x 10.000000 Terno x 10.000000 Quaterna x 10.000000 Cinquina 

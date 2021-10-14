@@ -1,0 +1,4 @@
+davi: Bari Cagliari Firenze Genova Milano Napoli Palermo Roma Torino Venezia Nazionale -n 1 2 3 4 5 6 7 8 9 90 -i 1.000000 2.000000 3.000000 4.000000 5.000000 
+edo: Bari Cagliari Firenze Genova Milano Napoli Palermo Roma Torino Venezia Nazionale -n 1 5 8 32 54 67 89 90 -i 33.000000 33.000000 33.000000 33.000000 0.000000 
+edo: Bari Cagliari Firenze Genova Milano Napoli Palermo Roma Torino Venezia Nazionale -n 1 2 3 4 5 -i 1.000000 2.000000 3.000000 4.000000 5.000000 
+mario: Bari Cagliari Firenze Genova Milano Napoli Palermo Roma Torino Venezia Nazionale -n 1 2 3 4 5 6 7 8 9 90 -i 9.000000 9.000000 9.000000 9.000000 9.000000 

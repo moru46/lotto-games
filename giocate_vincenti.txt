@@ -1,0 +1,20 @@
+davi: 16-09-2020 11:02 Bari 8 >> Estratto 0.102091 
+davi: 16-09-2020 11:02 Genova 1 >> Estratto 0.102091 
+davi: 16-09-2020 11:02 Milano 9 >> Estratto 0.102091 
+davi: 16-09-2020 11:02 Palermo 5 >> Estratto 0.102091 
+davi: 16-09-2020 11:02 Roma 8 >> Estratto 0.102091 
+edo: 16-09-2020 22:04 Milano 32 >> Estratto 4.211250 
+edo: 16-09-2020 22:04 Roma 54 >> Estratto 4.211250 
+edo: 16-09-2020 22:06 Venezia 1 4 >> Ambo 1.818182 Estratto 0.204182 
+edo: 16-09-2020 22:06 Nazionale 1 >> Estratto 0.204182 
+marco: 18-09-2020 10:37 Firenze 5 >> Estratto 1.020909 
+marco: 18-09-2020 10:37 Genova 9 1 2 >> Terno 109.090912 Ambo 40.909088 Estratto 1.020909
+marco: 18-09-2020 10:37 Napoli 3 5 >> Ambo 40.909088 Estratto 1.020909 
+marco: 18-09-2020 10:37 Palermo 7 4 >> Ambo 40.909088 Estratto 1.020909 
+marco: 18-09-2020 10:37 Roma 4 >> Estratto 1.020909 
+mario: 18-09-2020 20:22 Bari 9 >> Estratto 0.918818 
+mario: 18-09-2020 20:22 Firenze 4 >> Estratto 0.918818 
+mario: 18-09-2020 20:22 Roma 9 >> Estratto 0.918818 
+mario: 18-09-2020 20:22 Torino 2 >> Estratto 0.918818 
+mario: 18-09-2020 20:22 Venezia 4 7 1 >> Terno 98.181816 Ambo 36.818180 Estratto 0.918818 
+mario: 18-09-2020 20:22 Nazionale 7 >> Estratto 0.918818 
